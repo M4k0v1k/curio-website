@@ -25,7 +25,7 @@ include("includes/main.php");
 
 <div class="col-md-12" ><!-- col-md-12 Starts -->
 
-<div class="box" ><!-- box Starts -->
+<div class="box" >
 
 <?php
 
